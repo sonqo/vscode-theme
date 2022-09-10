@@ -1,21 +1,34 @@
 {
-  "name": "vscode-theme-sonqo",
-  "displayName": "vscode-theme",
-  "description": "theme",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.71.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "sonqo-theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/sonqo-theme-color-theme.json"
-      }
-    ]
-  }
+    "name": "vscode-theme",
+    "displayName": "Yet-Another Dark VS Code Theme",
+    "icon": "icon.png",
+    "publisher": "sonqo42",
+    "description": "VS Code Dark Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.71.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sonqo/vscode-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "orange dark theme",
+        "orange theme",
+        "orange"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "sonqo-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sonqo-theme-color-theme.json"
+            }
+        ]
+    }
 }
