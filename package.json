@@ -1,7 +1,7 @@
 {
     "name": "vscode-theme-sonqo",
     "displayName": "Yet-Another Dark VS Code Theme",
-    "icon": "icon.png",
+    "icon": "dark-mode-icon.png",
     "publisher": "sonqo42",
     "description": "VS Code Dark Theme",
     "version": "0.2.0",
