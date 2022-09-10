@@ -1,7 +1,7 @@
 {
     "name": "vscode-theme-sonqo",
     "displayName": "Yet-Another Dark VS Code Theme",
-    "icon": "dark-mode-icon.png",
+    "icon": "icon.png",
     "publisher": "sonqo42",
     "description": "VS Code Dark Theme",
     "version": "0.3.0",
@@ -27,7 +27,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "sonqo-theme",
+                "label": "Sonqo | Default Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/sonqo-theme-color-theme.json"
             }
