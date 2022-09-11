@@ -26,8 +26,6 @@
         "orange dark",
         "orange theme",
         "orange dark theme",
-        "fanta theme",
-        "fanta dark theme",
         "yellow",
         "yellow dark",
         "yellow theme",
@@ -44,8 +42,6 @@
         "blue dark",
         "blue theme",
         "blue dark theme",
-        "explorer theme",
-        "explorer dark theme",
         "purple",
         "purple dark",
         "purple theme",
@@ -74,26 +70,6 @@
                 "path": "./themes/batman-reversed-color-theme.json"
             },
             {
-                "label": "Sonqo | Fanta",
-                "uiTheme": "vs-dark",
-                "path": "./themes/fanta-color-theme.json"
-            },
-            {
-                "label": "Sonqo | rFanta",
-                "uiTheme": "vs-dark",
-                "path": "./themes/fanta-reversed-color-theme.json"
-            },
-            {
-                "label": "Sonqo | Explorer",
-                "uiTheme": "vs-dark",
-                "path": "./themes/explorer-color-theme.json"
-            },
-            {
-                "label": "Sonqo | rExplorer",
-                "uiTheme": "vs-dark",
-                "path": "./themes/explorer-reversed-color-theme.json"
-            },
-            {
                 "label": "Sonqo | Joker",
                 "uiTheme": "vs-dark",
                 "path": "./themes/joker-color-theme.json"
@@ -106,7 +82,7 @@
             {
                 "label": "Sonqo | Lakers",
                 "uiTheme": "vs-dark",
-                "path": "./themes/joker-color-theme.json"
+                "path": "./themes/lakers-color-theme.json"
             },
             {
                 "label": "Sonqo | rLakers",
