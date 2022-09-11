@@ -13,13 +13,45 @@
         "url": "https://github.com/sonqo/vscode-theme"
     },
     "keywords": [
-        "theme",
         "dark",
-        "orange",
+        "theme",
         "dark theme",
-        "orange theme",
+        "red",
+        "red dark",
+        "red theme",
+        "red dark theme",
+        "spiderman theme",
+        "spiderman dark theme",
+        "orange",
         "orange dark",
-        "orange dark theme"
+        "orange theme",
+        "orange dark theme",
+        "fanta theme",
+        "fanta dark theme",
+        "yellow",
+        "yellow dark",
+        "yellow theme",
+        "yellow dark theme",
+        "batman theme",
+        "batman dark theme",
+        "green",
+        "green dark",
+        "green theme",
+        "green dark theme",
+        "joker theme",
+        "joker dark theme",
+        "blue",
+        "blue dark",
+        "blue theme",
+        "blue dark theme",
+        "explorer theme",
+        "explorer dark theme",
+        "purple",
+        "purple dark",
+        "purple theme",
+        "purple dark theme",
+        "lakers theme",
+        "lakers dark theme"
     ],
     "categories": [
         "Themes"
@@ -29,7 +61,67 @@
             {
                 "label": "Sonqo | Default Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/sonqo-theme-color-theme.json"
+                "path": "./themes/sonqo-color-theme.json"
+            },
+            {
+                "label": "Sonqo | Batman",
+                "uiTheme": "vs-dark",
+                "path": "./themes/batman-color-theme.json"
+            },
+            {
+                "label": "Sonqo | rBatman",
+                "uiTheme": "vs-dark",
+                "path": "./themes/batman-reversed-color-theme.json"
+            },
+            {
+                "label": "Sonqo | Fanta",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fanta-color-theme.json"
+            },
+            {
+                "label": "Sonqo | rFanta",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fanta-reversed-color-theme.json"
+            },
+            {
+                "label": "Sonqo | Explorer",
+                "uiTheme": "vs-dark",
+                "path": "./themes/explorer-color-theme.json"
+            },
+            {
+                "label": "Sonqo | rExplorer",
+                "uiTheme": "vs-dark",
+                "path": "./themes/explorer-reversed-color-theme.json"
+            },
+            {
+                "label": "Sonqo | Joker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/joker-color-theme.json"
+            },
+            {
+                "label": "Sonqo | rJoker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/joker-reversed-color-theme.json"
+            },
+            {
+                "label": "Sonqo | Lakers",
+                "uiTheme": "vs-dark",
+                "path": "./themes/joker-color-theme.json"
+            },
+            {
+                "label": "Sonqo | rLakers",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lakers-reversed-color-theme.json"
+            },
+            {
+                "label": "Sonqo | Spiderman",
+                "uiTheme": "vs-dark",
+                "path": "./themes/spiderman-color-theme.json"
+            },
+            {
+                "label": "Sonqo | rSpiderman",
+                "uiTheme": "vs-dark",
+                "path": "./themes/spiderman-reversed-color-theme.json"
             }
         ]
     }
