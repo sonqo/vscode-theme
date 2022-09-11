@@ -65,7 +65,7 @@
                 "path": "./themes/batman-color-theme.json"
             },
             {
-                "label": "Sonqo | rBatman",
+                "label": "Sonqo | Batman-reversed",
                 "uiTheme": "vs-dark",
                 "path": "./themes/batman-reversed-color-theme.json"
             },
@@ -75,7 +75,7 @@
                 "path": "./themes/joker-color-theme.json"
             },
             {
-                "label": "Sonqo | rJoker",
+                "label": "Sonqo | Joker-reversed",
                 "uiTheme": "vs-dark",
                 "path": "./themes/joker-reversed-color-theme.json"
             },
@@ -85,7 +85,7 @@
                 "path": "./themes/lakers-color-theme.json"
             },
             {
-                "label": "Sonqo | rLakers",
+                "label": "Sonqo | Lakers-reversed",
                 "uiTheme": "vs-dark",
                 "path": "./themes/lakers-reversed-color-theme.json"
             },
@@ -95,7 +95,7 @@
                 "path": "./themes/spiderman-color-theme.json"
             },
             {
-                "label": "Sonqo | rSpiderman",
+                "label": "Sonqo | Spiderman-reversed",
                 "uiTheme": "vs-dark",
                 "path": "./themes/spiderman-reversed-color-theme.json"
             }
