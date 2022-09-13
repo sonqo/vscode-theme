@@ -1816,7 +1816,7 @@
             "name": "Python Keyword Control",
             "scope": "keyword.control.import.python,keyword.control.flow.python",
             "settings": {
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
