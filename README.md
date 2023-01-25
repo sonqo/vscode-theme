@@ -1,7 +1,5 @@
 # Yet-Another Dark VS Code Theme
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/sonqo42.vscode-theme-sonqo.svg)](https://marketplace.visualstudio.com/items?itemName=sonqo42.vscode-theme-sonqo)
-
 Dark-shaded panels with a two-combo coloring on key components. Main and reverse themes alternate the dominant color between these two.
 
 ## Default
